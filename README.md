@@ -1,2 +1,3 @@
-# scraping_data_tiki_selenium
 Using Selenium and Python to scrape products metadata on Tiki website
+
+The idea of scraping data with Python often comes along with Beautiful Soup. However, when dealing with dynamic scraping, which uses an actual browser and allows reading content that has been generated or modified via JavaScript, Selenium WebDriver is a library which will interface with the browser, allow for the site to render, and then allow you to retrieve the data from the browser's DOM.

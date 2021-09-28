@@ -9,8 +9,8 @@ The idea of scraping data with Python often comes along with Beautiful Soup. How
   - Price
   - URL of the product image
   - URL of that product page
-  - TIKI FAST badge
-  - Best-deal badge
-  - Payment on installment (y/n)
+  - TIKI FAST badge (True/False)
+  - Best-deal badge (True/False)
+  - Payment on installment (True/False)
   - Discount Percentage
   
